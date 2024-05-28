@@ -1,2 +1,2 @@
 # OdonPlus
-Sistema para Registro de Pacientes de Medicos Odontológicos
+Sistema para el Registro de Pacientes de Medicos Odontológicos
